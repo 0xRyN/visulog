@@ -1,0 +1,78 @@
+Week 15/09 -> 29/09 | Goal -> HTML with count of commits
+Merge request: #6 Formalize the architecture of the project (java files), done by SUDOL Filip
+Merged by: FOURMONT baptiste 
+
+Merge request: #3 Generated HTML should be outputted to file(s), done by KAABECHE rayane
+Merged by: FOURMONT baptiste
+
+Merge request: #12 CLILauncher.java --justSaveConfigFile, done by HAMIMI dany
+Merged by: KAABECHE rayane
+
+Issue: #9 Do something about TODOs done by BRAGINA natalia
+
+Merge request: #10 Display command-line help, done by FOURMONT baptiste
+Merged by: KAABECHE rayane 
+
+
+Week 29/09 -> 13/10 | Goal -> do TODO
+Commit: #14 CLILauncher.java --addPlugin by SUDOL Filip
+Merged by: HAMIMI dany 
+
+Commit: Revert "Merge branch 'documentation-cli-java' into 'develop'" done by FOURMONT baptiste
+Merged by: FOURMONT baptiste
+
+Commit: --loadConfigFile option implementation added, done by BRAGINA natalia
+Merged by:
+
+Commit: Add base implementation for PluginConfig using Java Properties class, done by BRAGINA natalia
+Merged by:
+
+Commit: Merge branch 'architecture_of_project' into 'develop', done by FOURMONT baptiste
+Merged by:
+
+
+
+Week 13/10 -> 03/11 | Goal -> implement graph to html and add backlog
+Merge request: #24 Put backlog on gitlab
+Merged by: HAMIMI dany 
+
+Merge request: Update CountCommitsPerAuthorPlugin.java / deleting quotation mark done by SIMONEAU louis-alexei
+Merged by: KAABECHE rayane
+
+Merge request: Update CountCommitsPerAuthorPlugin.java done by HAMIMI dany
+Merged by: KAABECHE rayane
+
+Merge request: Document CLILauncher FOURMONT baptiste
+Merged by: HAMIMI dany
+
+
+Week 03/11 -> 17/11 | Goal -> jgit
+
+Merge request: Update backlog done by SUDOL Filip
+Merged by: SUDOL Filip
+
+Merge request: Br diagrams done by BRAGINA natalia
+Merged by: HAMIMI dany 
+
+Commit: coderefactoring + fixed console print + added generation report per plugin done by BRAGINA natalia
+
+Commit: non-commercial CanvasJS + usage of free version CanvasJS added done by BRAGINA natalia
+
+Commit: added bar diagram + choise of type of html report like a console command option done by BRAGINA natalia
+
+Merge request: Update CountCommitsPerAuthorPlugin.java done by SIMONEAU louis-alexei
+Merged by:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
